@@ -494,6 +494,4 @@ order_uids = batch_processor.submit_batch_orders(batch_sites)
 
 ---
 
-**🎯 MVPシステム完成！** 🔥🛰️🤖
-
 2025年7月28日 作成
