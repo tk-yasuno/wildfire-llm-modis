@@ -7,7 +7,6 @@ As global wildfire risks continue to rise due to climate anomalies and prolonged
 - 🛰️ **Satellite Input**: Near-real-time MODIS imagery retrieved via NASA ORNL DAAC APIs  
 - 🧠 **Language Analysis**: Textual inference of fire characteristics
 - 🧪 **Risk Scoring**: Multi-factor fire risk quantification with explainable components  
-- 📊 **Dashboard**: Streamlit-based interface for risk visualization and FastAPI endpoint for alert distribution  
 - 📁 **Data Support**: MOD13Q1 (vegetation), MOD11A1 (surface temperature), MOD14A1 (fire detection)
 
 ## 🛠 Maintainers and Contributors
